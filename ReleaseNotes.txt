@@ -1,0 +1,7 @@
+Release notes bincoin 1.5.2
+
+- v5 fork to fix chain
+- Zawy LWMA Difficulty algorithm
+- rebase from Karbowanec 1.4.6
+
+Special thanks to @bm and @vortefoto for the great help!
