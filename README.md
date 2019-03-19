@@ -6,6 +6,12 @@ BINcoin adds a new front of resistance through real financial freedom. BINcoin i
 
 BIN is real Crypto with limited coin supply 100000000 coins. Supports wallets PC, Linux, Android in play store as well IOS in Apple store .
 
+Difficulty Retargetting Algorithm :   Crypto Night Algorithm
+
+Blockchain Protocol : CryptoNote
+
+Mining Block Reward : Upto 0.03 BIN / Block mine
+
 Official Bincoin : http://bincoins.io
 
 Block Explorer :  http://bincoinchain.info/
