@@ -18,6 +18,6 @@ Block Explorer :  http://bincoinchain.info/
 
 Web Explorer : https://bincoins.io
 
-Merchant : https://buuinpayment.com
+Merchant : https://binpayment.com
 
 BIN Exchange : https://www.binexlive.com
