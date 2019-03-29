@@ -1,6 +1,6 @@
 ## BINCOIN CORE ( BIN )
 
-![Logo of bincoin](https://bincoins.io/bin/images/logo.png)
+![Logo of bincoin](https://bincoins.io/bin/images/B_logo.png)
 
 ## What is Bincoin ?
 
